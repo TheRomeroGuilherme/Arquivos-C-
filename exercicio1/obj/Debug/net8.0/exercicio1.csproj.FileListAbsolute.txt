@@ -1,0 +1,14 @@
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\bin\Debug\net8.0\exercicio1.exe
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\bin\Debug\net8.0\exercicio1.deps.json
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\bin\Debug\net8.0\exercicio1.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\bin\Debug\net8.0\exercicio1.dll
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\bin\Debug\net8.0\exercicio1.pdb
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\exercicio1.dll
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\refint\exercicio1.dll
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\exercicio1.pdb
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\exercicio1.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\AmbientacaoC#\Exercicio\exercicio1\obj\Debug\net8.0\ref\exercicio1.dll
